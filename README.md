@@ -12,3 +12,4 @@ work. That is not to say that I don't have a Windows OS on my machine, because I
 do and I use that when a technology is Windows OS specific such as the .net framework.
 
 [Linux dotnet Core Solution](./LinuxDotNetCore/readme.md)
+[Linux dotnet Core ASP Solution](./LinuxCoreASP.readme.md)
