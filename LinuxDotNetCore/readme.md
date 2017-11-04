@@ -1,4 +1,4 @@
-# Linux DotNet Core Setup Guid
+# Linux DotNet Core Setup Guide
 
 ## Introduction
 This solution is just to demonstrate how to set up a solution within a Linux OS using
