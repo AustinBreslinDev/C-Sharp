@@ -18,4 +18,4 @@ current company for the past 3 years.
 
 ## Projects within this repo
 1.  [Linux dotnet Core Solution](./LinuxDotNetCore/readme.md)
-2.  [Linux dotnet Core ASP Solution](./LinuxCoreASP.readme.md)
+2.  [Linux dotnet Core ASP Solution](./LinuxCoreASP/readme.md)
