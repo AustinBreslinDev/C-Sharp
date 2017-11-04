@@ -8,16 +8,13 @@ using LinuxASP.Models;
 
 namespace LinuxASP.Controllers
 {
-    [Route("[Home]")]
     public class HomeController : Controller
     {
-        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        [HttpGet]
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
