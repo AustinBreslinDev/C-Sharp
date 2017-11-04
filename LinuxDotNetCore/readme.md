@@ -4,9 +4,11 @@
 This solution is just to demonstrate how to set up a solution within a Linux OS using
 a console app project, library project and a test project. 
 
+
 ## Assumptions
 * You have a Linux OS installed and know how to convert apt commands to apt-get or yum
 or to pacman commands.
+
 
 ## Set Up
 1. Please follow the guide to install DotNet on a Linux OS on the
@@ -78,7 +80,15 @@ dotnet ./CoreConsole/bin/Debug/netcoreapp2.0/CoreConsole.dll
 
 _NB: You might encounter an issue with the tests, there seemes to be a problem with the 
 Microsoft dotnet core 2.0 packages not being made public for nuget. If you look at my
-[nuget.config file](./nuget.config), you will notice 3 additional keys which are the latest repos for the
-MS nuget packages for dotnet core not dotnet core 2.0_ 
+[nuget.config file](./nuget.config), you will notice 3 additional keys which are the latest 
+repos for the MS nuget packages for dotnet core not dotnet core 2.0_ 
 
 ### That is a full set up for a Console App in dotnet core, but applies to most applications.
+
+#### Now just to save.
+```
+git status
+git add ./**
+git status
+git commit -m "Basic set up of dotnet core app."
+```
