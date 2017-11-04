@@ -16,5 +16,6 @@ I started working with C# in April 2017 for my current company and I am still le
 C#, but I do have an advantage here over starters, I worked with Java EE for my
 current company for the past 3 years.
 
+## Projects within this repo
 1.  [Linux dotnet Core Solution](./LinuxDotNetCore/readme.md)
 2.  [Linux dotnet Core ASP Solution](./LinuxCoreASP.readme.md)
