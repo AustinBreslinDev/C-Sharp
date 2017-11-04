@@ -1,0 +1,8 @@
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/bin/Debug/netstandard2.0/CoreLibrary.deps.json
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/bin/Debug/netstandard2.0/CoreLibrary.dll
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/bin/Debug/netstandard2.0/CoreLibrary.pdb
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/obj/Debug/netstandard2.0/CoreLibrary.csproj.CoreCompileInputs.cache
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/obj/Debug/netstandard2.0/CoreLibrary.AssemblyInfoInputs.cache
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/obj/Debug/netstandard2.0/CoreLibrary.AssemblyInfo.cs
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/obj/Debug/netstandard2.0/CoreLibrary.dll
+/home/bucky/Source/github/C-Sharp/LinuxDotNetCore/CoreLibrary/obj/Debug/netstandard2.0/CoreLibrary.pdb
